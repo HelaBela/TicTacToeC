@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.deps.json
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.dll
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.2/TicTacToe.pdb
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.dll
+/Users/helena.franczak/RiderProjects/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.2/TicTacToe.pdb

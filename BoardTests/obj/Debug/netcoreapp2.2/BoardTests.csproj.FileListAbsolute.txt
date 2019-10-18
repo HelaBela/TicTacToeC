@@ -1,0 +1,17 @@
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/BoardTests.deps.json
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/BoardTests.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/BoardTests.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/BoardTests.dll
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/BoardTests.pdb
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/TicTacToe.dll
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/bin/Debug/netcoreapp2.2/TicTacToe.pdb
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/obj/Debug/netcoreapp2.2/BoardTests.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/obj/Debug/netcoreapp2.2/BoardTests.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/obj/Debug/netcoreapp2.2/BoardTests.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/obj/Debug/netcoreapp2.2/BoardTests.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/obj/Debug/netcoreapp2.2/BoardTests.csproj.CopyComplete
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/obj/Debug/netcoreapp2.2/BoardTests.dll
+/Users/helena.franczak/RiderProjects/TicTacToe/BoardTests/obj/Debug/netcoreapp2.2/BoardTests.pdb
